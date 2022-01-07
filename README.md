@@ -1,2 +1,2 @@
-# Agile_Fundamentals_Scrum_Kanban
+# Agile Fundamentals Scrum and Kanban
 Fundamentals Ágiles - Scrum and Kanban
